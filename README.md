@@ -505,24 +505,6 @@
 * [TDD - Driving Input Code with Output Tests](https://github.com/thought-corner/backend-roadmap/wiki/TDD-%E2%80%90-Driving-Input-Code-with-Output-Tests)
 * [TDD - Pagination Test](https://github.com/thought-corner/backend-roadmap/wiki/TDD-%E2%80%90-Pagination-Test)
 
-#### 📖 PostgreSQL📎
-
-* [PostgreSQL - Docker만을 사용하는 경량화된 환경 구성 방법]
-* [PostgreSQL - PostgreSQL에서 제공하는 데이터 타입]
-* [PostgreSQL - PostgreSQI의 JSONB, 역인덱싱과 활용 방법]
-* [PostgreSQL - 데이터베이스 성능을 위한 최적화 패턴 및 전략]
-* [PostgreSQL - 트랜잭션과 ACID, Isolation 수준별 차이]
-* [PostgreSQL - Database Lock 교착상태와 읽기/쓰기 성능을 보장하는 MVCC 모델]
-* [PostgreSQL - pgvector와 벡터 저장, 유사도 검색 패턴 개념]
-* [PostgreSQL - 벡터 인덱스 최적화와 벡터 검색과 전문 검색 결합 패턴]
-* [PostgreSQL - PostgreSQL 플러그인]
-* [PostgreSQL - PostGIS - 공간 쿼리와 GIST 인덱스, 지리 타입과 공간 쿼리를 위한 타입과 기본 함수]
-* [PostgreSQL - pg_search - 검색 엔진 없이 텍스트 검색 구현과 주의사항]
-* [PostgreSQL - 단일 인스턴스 한계를 극복하는 분산 패턴과 스케줄링, 분산 환경 구축 방법]
-* [PostgreSQL - Citus - 분산 테이블과 분산 쿼리를 위한 Extension과 데이터 분산 처리]
-* [PostgreSQL - pg_cron - PostgreSQL로 구성하는 CronJob]
-* [PostgreSQL - 스케줄러 + 분산 처리를 동시에 도입하는 주기적 집계 쿼리 패턴]
-
 #### 📖 Reactive Programming📎
 
 * [Reactive Programming - Everything About Reactive Programming & Core Concepts of Reactive Programming](https://github.com/thought-corner/backend-roadmap/wiki/Reactive-Programming-%E2%80%90-Everything-About-Reactive-Programming-&-Core-Concepts-of-Reactive-Programming)
@@ -675,7 +657,7 @@
 * [(Effective Java Item 89) Java - 인스턴스 수를 통제해야 한다면 readResolve보다는 열거 타입을 사용하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%EC%88%98%EB%A5%BC-%ED%86%B5%EC%A0%9C%ED%95%B4%EC%95%BC-%ED%95%9C%EB%8B%A4%EB%A9%B4-readResolve%EB%B3%B4%EB%8B%A4%EB%8A%94-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-89%5D)
 * [🔖(Effective Java Item 90) Java - 직렬화된 인스턴스 대신 직렬화 프록시 사용을 검토하라]
 
-#### 📖 [Kotlin Academy - Effective Kotlin⭐](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000011546361)
+#### 📖 [Kotlin Academy - Effective Kotlin Best Practice 2/E⭐](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000011546361)
 
 * [(Effective Kotlin Item 1) Kotlin - 가변성을 제한하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EA%B0%80%EB%B3%80%EC%84%B1%EC%9D%84-%EC%A0%9C%ED%95%9C%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-1%5D)
 * [(Effective Kotlin Item 2) Kotlin - 임계 영역을 제거하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%9E%84%EA%B3%84-%EC%98%81%EC%97%AD%EC%9D%84-%EC%A0%9C%EA%B1%B0%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-2%5D)
@@ -716,15 +698,29 @@
 * [(Effective Kotlin Item 37) Kotlin - 데이터 묶음을 표현할 때 data 한정자를 사용하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AC%B6%EC%9D%8C%EC%9D%84-%ED%91%9C%ED%98%84%ED%95%A0-%EB%95%8C-data-%ED%95%9C%EC%A0%95%EC%9E%90%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-37%5D)
 * [(Effective Kotlin Item 38) Kotlin - 연산과 행동을 전달하려면 함수 타입이나 함수형 인터페이스를 사용하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%97%B0%EC%82%B0%EA%B3%BC-%ED%96%89%EB%8F%99%EC%9D%84-%EC%A0%84%EB%8B%AC%ED%95%98%EB%A0%A4%EB%A9%B4-%ED%95%A8%EC%88%98-%ED%83%80%EC%9E%85%EC%9D%B4%EB%82%98-%ED%95%A8%EC%88%98%ED%98%95-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-38%5D)
 * [(Effective Kotlin Item 39) Kotlin - 제한된 계층구조를 표현하기 위해 sealed 클래스와 sealed 인터페이스를 사용하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%A0%9C%ED%95%9C%EB%90%9C-%EA%B3%84%EC%B8%B5%EA%B5%AC%EC%A1%B0%EB%A5%BC-%ED%91%9C%ED%98%84%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%B4-sealed-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-sealed-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-39%5D)
-* [(Effective Kotlin Item 40) Kotlin - 태그 클래스 대신 클래스 계층구조를 선호하라]
-* [(Effective Kotlin Item 41) Kotlin - 열거형 클래스를 사용해서 값 목록을 나타내라]
-* [(Effective Kotlin Item 42) Kotlin - equals의 규약을 준수하라]
-* [(Effective Kotlin Item 43) Kotlin - hashCode의 규약을 준수하라]
-* [(Effective Kotlin Item 44) Kotlin - compareTo의 규약을 준수하라]
-* [(Effective Kotlin Item 45) Kotlin - API의 필수적이지 않은 부분을 확장으로 추출하는 것을 고려하라]
-* [(Effective Kotlin Item 46) Kotlin - 멤버 확장 함수를 피하라]
+* [(Effective Kotlin Item 40) Kotlin - 태그 클래스 대신 클래스 계층구조를 선호하라](https://github.com/thought-corner/backend-roadmap/wiki/(Effective-Kotlin-Item-40)-Kotlin-%E2%80%90-%ED%83%9C%EA%B7%B8-%ED%81%B4%EB%9E%98%EC%8A%A4-%EB%8C%80%EC%8B%A0-%ED%81%B4%EB%9E%98%EC%8A%A4-%EA%B3%84%EC%B8%B5%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EC%84%A0%ED%98%B8%ED%95%98%EB%9D%BC)
+* [(Effective Kotlin Item 41) Kotlin - 열거형 클래스를 사용해서 값 목록을 나타내라](https://github.com/thought-corner/backend-roadmap/wiki/(Effective-Kotlin-Item-41)-Kotlin-%E2%80%90-%EC%97%B4%EA%B1%B0%ED%98%95-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-%EA%B0%92-%EB%AA%A9%EB%A1%9D%EC%9D%84-%EB%82%98%ED%83%80%EB%82%B4%EB%9D%BC)
+* [(Effective Kotlin Item 42) Kotlin - equals의 규약을 준수하라](https://github.com/thought-corner/backend-roadmap/wiki/(Effective-Kotlin-Item-42)-Kotlin-%E2%80%90-equals%EC%9D%98-%EA%B7%9C%EC%95%BD%EC%9D%84-%EC%A4%80%EC%88%98%ED%95%98%EB%9D%BC)
+* [(Effective Kotlin Item 43) Kotlin - hashCode의 규약을 준수하라](https://github.com/thought-corner/backend-roadmap/wiki/(Effective-Kotlin-Item-43)-Kotlin-%E2%80%90-hashCode%EC%9D%98-%EA%B7%9C%EC%95%BD%EC%9D%84-%EC%A4%80%EC%88%98%ED%95%98%EB%9D%BC)
+* [(Effective Kotlin Item 44) Kotlin - compareTo의 규약을 준수하라](https://github.com/thought-corner/backend-roadmap/wiki/(Effective-Kotlin-Item-44)-Kotlin-%E2%80%90-compareTo%EC%9D%98-%EA%B7%9C%EC%95%BD%EC%9D%84-%EC%A4%80%EC%88%98%ED%95%98%EB%9D%BC)
+* [(Effective Kotlin Item 45) Kotlin - API의 필수적이지 않은 부분을 확장으로 추출하는 것을 고려하라](https://github.com/thought-corner/backend-roadmap/wiki/(Effective-Kotlin-Item-45)-Kotlin-%E2%80%90-API%EC%9D%98-%ED%95%84%EC%88%98%EC%A0%81%EC%9D%B4%EC%A7%80-%EC%95%8A%EC%9D%80-%EB%B6%80%EB%B6%84%EC%9D%84-%ED%99%95%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EC%B6%94%EC%B6%9C%ED%95%98%EB%8A%94-%EA%B2%83%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC)
+* [(Effective Kotlin Item 46) Kotlin - 멤버 확장 함수를 피하라](https://github.com/thought-corner/backend-roadmap/wiki/(Effective-Kotlin-Item-46)-Kotlin-%E2%80%90-%EB%A9%A4%EB%B2%84-%ED%99%95%EC%9E%A5-%ED%95%A8%EC%88%98%EB%A5%BC-%ED%94%BC%ED%95%98%EB%9D%BC)
+* [(Effective Kotlin Item 47) Kotlin - 불필요한 객체 생성을 피하라](https://github.com/thought-corner/backend-roadmap/wiki/(Effective-Kotlin-Item-47)-Kotlin-%E2%80%90-%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C-%EA%B0%9D%EC%B2%B4-%EC%83%9D%EC%84%B1%EC%9D%84-%ED%94%BC%ED%95%98%EB%9D%BC)
+* [(Effective Kotlin Item 48) Kotlin - 객체 선언 사용을 고려하라](https://github.com/thought-corner/backend-roadmap/wiki/(Effective-Kotlin-Item-48)-Kotlin-%E2%80%90-%EA%B0%9D%EC%B2%B4-%EC%84%A0%EC%96%B8-%EC%82%AC%EC%9A%A9%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC)
+* [(Effective Kotlin Item 49) Kotlin - 가능하면 캐싱을 사용하라](https://github.com/thought-corner/backend-roadmap/wiki/(Effective-Kotlin-Item-49)-Kotlin-%E2%80%90-%EA%B0%80%EB%8A%A5%ED%95%98%EB%A9%B4-%EC%BA%90%EC%8B%B1%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC)
+* [(Effective Kotlin Item 50) Kotlin - 재사용 가능한 객체를 추출하라](https://github.com/thought-corner/backend-roadmap/wiki/(Effective-Kotlin-Item-50)-Kotlin-%E2%80%90-%EC%9E%AC%EC%82%AC%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%9C-%EA%B0%9D%EC%B2%B4%EB%A5%BC-%EC%B6%94%EC%B6%9C%ED%95%98%EB%9D%BC)
+* [(Effective Kotlin Item 51) Kotlin - 함수형 타입 매개변수를 갖는 함수에 inline 한정자를 사용하라](https://github.com/thought-corner/backend-roadmap/wiki/(Effective-Kotlin-Item-51)-Kotlin-%E2%80%90-%ED%95%A8%EC%88%98%ED%98%95-%ED%83%80%EC%9E%85-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EB%A5%BC-%EA%B0%96%EB%8A%94-%ED%95%A8%EC%88%98%EC%97%90-inline-%ED%95%9C%EC%A0%95%EC%9E%90%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC)
+* [(Effective Kotlin Item 52) Kotlin - 인라인 값 클래스 사용을 고려하라](https://github.com/thought-corner/backend-roadmap/wiki/(Effective-Kotlin-Item-52)-Kotlin-%E2%80%90-%EC%9D%B8%EB%9D%BC%EC%9D%B8-%EA%B0%92-%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%82%AC%EC%9A%A9%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC)
+* [(Effective Kotlin Item 53) Kotlin - 더 이상 사용하지 않는 객체 참조를 삭제하라](https://github.com/thought-corner/backend-roadmap/wiki/(Effective-Kotlin-Item-53)-Kotlin-%E2%80%90-%EB%8D%94-%EC%9D%B4%EC%83%81-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EA%B0%9D%EC%B2%B4-%EC%B0%B8%EC%A1%B0%EB%A5%BC-%EC%82%AD%EC%A0%9C%ED%95%98%EB%9D%BC)
+* [(Effective Kotlin Item 54) Kotlin - 처리 단계가 둘 이상인 대규모 컬렉션의 경우 시퀀스를 선호하라]
+* [(Effective Kotlin Item 55) Kotlin - 요소들을 맵으로 묶는 것을 고려하라]
+* [(Effective Kotlin Item 56) Kotlin - groupBy 대신 groupingBy 사용을 고려하라]
+* [(Effective Kotlin Item 57) Kotlin - 연산 횟수를 제한하라]
+* [(Effective Kotlin Item 58) Kotlin - 성능이 중요한 작업에서는 원시형 배열의 사용을 고려하라]
+* [(Effective Kotlin Item 59) Kotlin - 가변 컬렉션 사용을 고려하라]
+* [(Effective Kotlin Item 60) Kotlin - 적절한 컬렉션 타입을 사용하라]
 
-#### 📖 [Kotlin Academy - 핵심편⭐](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000008439557)
+#### 📖 [Kotlin Academy - Kotlin Essentials with exercises⭐](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000008439557)
 
 * [(Effective Kotlin Item 3) Kotlin - variable](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EB%B3%80%EC%88%98%5BEffective-Kotlin-Item-3%5D)
 * [(Effective Kotlin Item 4) Kotlin - primitive types, literals, and operations](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85,-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85%EC%9D%98-%EB%A6%AC%ED%84%B0%EB%9F%B4%EA%B3%BC-%EC%97%B0%EC%82%B0%5BEffective-Kotlin-Item-4%5D)
@@ -837,6 +833,8 @@
 * [도메인 주도 설계의 사실과 오해 - 통찰력을 향한 리팩터링]
 * [도메인 주도 설계의 사실과 오해 - 유연한 설계를 향한 리팩터링]
 * [도메인 주도 설계의 사실과 오해 - 모델의 경계를 긋고, 핵심에 집중하라]
+
+#### 📖 [요즘 우아한 백엔드 개발⭐](https://product.kyobobook.co.kr/detail/S000220700975)
 
 #### 📖 [객체지향의 사실과 오해(역할, 책임, 협력 관점에서 본 객체지향)⭐](https://product.kyobobook.co.kr/detail/S000001628109?utm_source=google&utm_medium=cpc&utm_campaign=googleSearch&gt_network=g&gt_keyword=&gt_target_id=aud-901091942354:dsa-435935280379&gt_campaign_id=9979905549&gt_adgroup_id=132556570510&gad_source=1)
 
