@@ -314,27 +314,20 @@
 * [MicroService Architecture - Service Communications Patterns(GraphQL)](https://github.com/thought-corner/backend-roadmap/wiki/MicroService-Architecture-%E2%80%90-Service-Communications-Patterns(GraphQL))
 * [MicroService Architecture - Service Communications Patterns(gRPC)](https://github.com/thought-corner/backend-roadmap/wiki/MicroService-Architecture-%E2%80%90-Service-Communications-Patterns(gRPC))
 * [MicroService Architecture - API Gateway Patterns](https://github.com/woojin-playground/Backend-PlayGround/wiki/MicroService-Architecture-%E2%80%90-API-Gateway-Patterns)
+* [MicroService Architecture - Backend for Frontend](https://github.com/thought-corner/backend-roadmap/wiki/MicroService-Architecture-%E2%80%90-Backend-for-Frontend)
 * [MicroService Architecture - Asynchronous Communications Patterns](https://github.com/woojin-playground/Backend-PlayGround/wiki/MicroService-Architecture-%E2%80%90-Asynchronous-Communications-Patterns)
 * [MicroService Architecture - Data Management Patterns](https://github.com/woojin-playground/Backend-PlayGround/wiki/MicroService-Architecture-%E2%80%90-Data-Management-Patterns)
 * [MicroService Architecture - CQRS Patterns](https://github.com/woojin-playground/Backend-PlayGround/wiki/MicroService-Architecture-%E2%80%90-CQRS-Patterns)
 * [MicroService Architecture - Distributed Transactions](https://github.com/woojin-playground/Backend-PlayGround/wiki/MicroService-Architecture-%E2%80%90-Distributed-Transactions)
-* [MicroService Architecture - Event-Driven Architecture]
-* [MicroService Architecture - Resilience & Observability and Monitoring]
-* [MicroService Architecture - Security Patterns]
-* [MicroService Architecture - Testing Strategies]
+* [MicroService Architecture - Event-Driven Architecture](https://github.com/thought-corner/backend-roadmap/wiki/MicroService-Architecture-%E2%80%90-Event%E2%80%90Driven-Architecture)
+* [MicroService Architecture - Resilience & Observability and Monitoring](https://github.com/thought-corner/backend-roadmap/wiki/MicroService-Architecture-%E2%80%90-Resilience-&-Observability-and-Monitoring)
+* [MicroService Architecture - Security Patterns](https://github.com/thought-corner/backend-roadmap/wiki/MicroService-Architecture-%E2%80%90-Security-Patterns)
+* [MicroService Architecture - Testing Strategies](https://github.com/thought-corner/backend-roadmap/wiki/MicroService-Architecture-%E2%80%90-Testing-Strategies)
 * [MicroService Architecture - Scalability & Caching Patterns]
 * [MicroService Architecture - Deployment Patterns]
-* [MicroService Architecture - Serverless Architecture]
-* [MicroService Architecture - GraphQL]
-* [MicroService Architecture - Evolution of Distributed Systems and Their Drawbacks]
-* [MicroService Architecture - Protocol Buffers]
-* [MicroService Architecture - gRPC Communication Patterns]
-* [MicroService Architecture - gRPC Optimization Strategies and Implementation]
 * [MicroService Architecture - 2PC](https://github.com/thought-corner/Backend-PlayGround/wiki/MicroService-Architecture-%E2%80%90-2PC)
 * [MicroService Architecture - TCC](https://github.com/thought-corner/Backend-PlayGround/wiki/MicroService-Architecture-%E2%80%90-TCC)
 * [MicroService Architecture - SAGA](https://github.com/thought-corner/Backend-PlayGround/wiki/MicroService-Architecture-%E2%80%90-SAGA)
-* [MicroService Architecture - Service Discovery]
-* [MicroService Architecture - API Gateway Service]
 
 #### 📖 Kafka⭐
 
@@ -484,8 +477,8 @@
 
 #### 📖 gRPC📎
 
-* [gRPC - Writing .proto Files with Protocol Buffers]
-* [gRPC - Various Communication Patterns in gRPC]
+* [gRPC - Writing .proto Files with Protocol Buffers](https://github.com/thought-corner/backend-roadmap/wiki/gRPC-%E2%80%90-Writing-.proto-Files-with-Protocol-Buffers)
+* [gRPC - Various Communication Patterns in gRPC](https://github.com/thought-corner/backend-roadmap/wiki/gRPC-%E2%80%90-Various-Communication-Patterns-in-gRPC)
 * [gRPC - gRPC Optimization Techniques and Advanced Features]
 
 #### 📖 Spring Cloud Microservice Application📎
