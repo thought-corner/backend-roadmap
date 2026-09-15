@@ -323,8 +323,8 @@
 * [MicroService Architecture - Resilience & Observability and Monitoring](https://github.com/thought-corner/backend-roadmap/wiki/MicroService-Architecture-%E2%80%90-Resilience-&-Observability-and-Monitoring)
 * [MicroService Architecture - Security Patterns](https://github.com/thought-corner/backend-roadmap/wiki/MicroService-Architecture-%E2%80%90-Security-Patterns)
 * [MicroService Architecture - Testing Strategies](https://github.com/thought-corner/backend-roadmap/wiki/MicroService-Architecture-%E2%80%90-Testing-Strategies)
-* [MicroService Architecture - Scalability & Caching Patterns]
-* [MicroService Architecture - Deployment Patterns]
+* [MicroService Architecture - Scalability & Caching Patterns](https://github.com/thought-corner/backend-roadmap/wiki/MicroService-Architecture-%E2%80%90-Scalability-&-Caching-Patterns)
+* [MicroService Architecture - Deployment Patterns](https://github.com/thought-corner/backend-roadmap/wiki/MicroService-Architecture-%E2%80%90-Deployment-Patterns)
 * [MicroService Architecture - 2PC](https://github.com/thought-corner/Backend-PlayGround/wiki/MicroService-Architecture-%E2%80%90-2PC)
 * [MicroService Architecture - TCC](https://github.com/thought-corner/Backend-PlayGround/wiki/MicroService-Architecture-%E2%80%90-TCC)
 * [MicroService Architecture - SAGA](https://github.com/thought-corner/Backend-PlayGround/wiki/MicroService-Architecture-%E2%80%90-SAGA)
