@@ -154,7 +154,7 @@
 * [Spring Security - OAuth 2.0 Resource Server](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-Resource-Server)
 * [Spring Security - OAuth 2.0 Resource Server API](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-Resource-Server-API)
 * [Spring Security - OAuth 2.0 Verification](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-%EA%B2%80%EC%A6%9D)
-* [🔖Spring Security - OAuth 2.0 MAC & RSA Token Verification]
+* [Spring Security - OAuth 2.0 MAC & RSA Token Verification]
 * [Spring Security - OAuth 2.0 Resource Server Permission Implementation](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-Resource-Server-%EA%B6%8C%ED%95%9C-%EA%B5%AC%ED%98%84)
 * [Spring Security - OAuth 2.0 opaque()](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-opaque())
 * [Spring Security - Integrating OAuth 2.0 Client and Resource Server](https://github.com/thought-corner/spring-security-oauth2-client-resource-server)
@@ -227,7 +227,7 @@
 * [Database - Diagnosing Using filesort and Early Termination](https://github.com/thought-corner/backend-roadmap/wiki/Database-%E2%80%90-Diagnosing-Using-filesort-and-Early-Termination)
 * [Database - ICP, Covering, and Skip Scans](https://github.com/thought-corner/backend-roadmap/wiki/Database-%E2%80%90-ICP,-Covering,-and-Skip-Scans)
 * [Database - Merge, MRR, New Features, Hints, and Operations](https://github.com/thought-corner/backend-roadmap/wiki/Database-%E2%80%90-Merge,-MRR,-New-Features,-Hints,-and-Operations)
-* [🔖Database - The Optimizer and Histograms](https://github.com/thought-corner/backend-roadmap/wiki/Database-%E2%80%90-The-Optimizer-and-Histograms)
+* [Database - The Optimizer and Histograms](https://github.com/thought-corner/backend-roadmap/wiki/Database-%E2%80%90-The-Optimizer-and-Histograms)
 * [Database - Join Optimization](https://github.com/thought-corner/backend-roadmap/wiki/Database-%E2%80%90-Join-Optimization)
 * [Database - Optimizing Sort, Pagination, and Grouping](https://github.com/thought-corner/backend-roadmap/wiki/Database-%E2%80%90-Optimizing-Sort,-Pagination,-and-Grouping)
 * [Database - Streaming Aggregation and Pre-aggregated Tables](https://github.com/thought-corner/backend-roadmap/wiki/Database-%E2%80%90-Streaming-Aggregation-and-Pre%E2%80%90aggregated-Tables)
@@ -432,6 +432,14 @@
 * [Jenkins - Jenkins Jobs: Freestyle & Pipeline](https://github.com/thought-corner/backend-roadmap/wiki/Jenkins-%E2%80%90-Jenkins-Jobs:-Freestyle-&-Pipeline)
 * [Jenkins - Jenkins Pipeline Project](https://github.com/thought-corner/backend-roadmap/wiki/Jenkins-%E2%80%90-Jenkins-Pipeline-Project)
 * [Jenkins - Implementing Continuous Integration(CI) with Jenkins](https://github.com/thought-corner/backend-roadmap/wiki/Implementing-Continuous-Integration(CI)-with-Jenkins)
+* [Jenkins - Using Jenkins for CI/CD Automation(Using a VM (Container) with SSH and Docker Installed)]
+* [Jenkins - Using Jenkins for CI/CD Automation(Deploying to a Docker Container 1)]
+* [Jenkins - Using Jenkins for CI/CD Automation(Deploying to a Docker Container 2)]
+* [Jenkins - Advanced Jenkins(Using Jenkins Pipeline Scripts)]
+* [Jenkins - Advanced Jenkins(Pipeline Syntax)]
+* [Jenkins - Advanced Jenkins(Maven Build Pipeline)]
+* [Jenkins - Advanced Jenkins(Deploying to a Docker Container)]
+* [Jenkins - Appendix(Building with GitHub Webhooks and Jenkins Integration)]
 
 #### 📖 Nginx⭐
 
@@ -480,11 +488,6 @@
 * [gRPC - Writing .proto Files with Protocol Buffers](https://github.com/thought-corner/backend-roadmap/wiki/gRPC-%E2%80%90-Writing-.proto-Files-with-Protocol-Buffers)
 * [gRPC - Various Communication Patterns in gRPC](https://github.com/thought-corner/backend-roadmap/wiki/gRPC-%E2%80%90-Various-Communication-Patterns-in-gRPC)
 * [gRPC - gRPC Optimization Techniques and Advanced Features]
-
-#### 📖 Spring Cloud Microservice Application📎
-
-* [Spring Cloud Microservice Application - Service Discovery](https://github.com/thought-corner/service-discovery)
-* [Spring Cloud Microservice Application - API Gateway Service](https://github.com/thought-corner/api-gateway-service)
 
 #### 📖 TDD(Test-Driven-Development)⭐
 
@@ -648,7 +651,7 @@
 * [(Effective Java Item 87) Java - 커스텀 직렬화 형태를 고려해보라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EC%BB%A4%EC%8A%A4%ED%85%80-%EC%A7%81%EB%A0%AC%ED%99%94-%ED%98%95%ED%83%9C%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%B4%EB%B3%B4%EB%9D%BC%5BEffective-Java-Item-87%5D)
 * [(Effective Java Item 88) Java - readObject 메서드는 방어적으로 작성하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-readObject-%EB%A9%94%EC%84%9C%EB%93%9C%EB%8A%94-%EB%B0%A9%EC%96%B4%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9E%91%EC%84%B1%ED%95%98%EB%9D%BC%5BEffective-Java-Item-86%5D)
 * [(Effective Java Item 89) Java - 인스턴스 수를 통제해야 한다면 readResolve보다는 열거 타입을 사용하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%EC%88%98%EB%A5%BC-%ED%86%B5%EC%A0%9C%ED%95%B4%EC%95%BC-%ED%95%9C%EB%8B%A4%EB%A9%B4-readResolve%EB%B3%B4%EB%8B%A4%EB%8A%94-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-89%5D)
-* [🔖(Effective Java Item 90) Java - 직렬화된 인스턴스 대신 직렬화 프록시 사용을 검토하라]
+* [(Effective Java Item 90) Java - 직렬화된 인스턴스 대신 직렬화 프록시 사용을 검토하라]
 
 #### 📖 [Kotlin Academy - Effective Kotlin Best Practice 2/E⭐](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000011546361)
 
@@ -705,13 +708,13 @@
 * [(Effective Kotlin Item 51) Kotlin - 함수형 타입 매개변수를 갖는 함수에 inline 한정자를 사용하라](https://github.com/thought-corner/backend-roadmap/wiki/(Effective-Kotlin-Item-51)-Kotlin-%E2%80%90-%ED%95%A8%EC%88%98%ED%98%95-%ED%83%80%EC%9E%85-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EB%A5%BC-%EA%B0%96%EB%8A%94-%ED%95%A8%EC%88%98%EC%97%90-inline-%ED%95%9C%EC%A0%95%EC%9E%90%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC)
 * [(Effective Kotlin Item 52) Kotlin - 인라인 값 클래스 사용을 고려하라](https://github.com/thought-corner/backend-roadmap/wiki/(Effective-Kotlin-Item-52)-Kotlin-%E2%80%90-%EC%9D%B8%EB%9D%BC%EC%9D%B8-%EA%B0%92-%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%82%AC%EC%9A%A9%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC)
 * [(Effective Kotlin Item 53) Kotlin - 더 이상 사용하지 않는 객체 참조를 삭제하라](https://github.com/thought-corner/backend-roadmap/wiki/(Effective-Kotlin-Item-53)-Kotlin-%E2%80%90-%EB%8D%94-%EC%9D%B4%EC%83%81-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EA%B0%9D%EC%B2%B4-%EC%B0%B8%EC%A1%B0%EB%A5%BC-%EC%82%AD%EC%A0%9C%ED%95%98%EB%9D%BC)
-* [(Effective Kotlin Item 54) Kotlin - 처리 단계가 둘 이상인 대규모 컬렉션의 경우 시퀀스를 선호하라]
-* [(Effective Kotlin Item 55) Kotlin - 요소들을 맵으로 묶는 것을 고려하라]
-* [(Effective Kotlin Item 56) Kotlin - groupBy 대신 groupingBy 사용을 고려하라]
-* [(Effective Kotlin Item 57) Kotlin - 연산 횟수를 제한하라]
-* [(Effective Kotlin Item 58) Kotlin - 성능이 중요한 작업에서는 원시형 배열의 사용을 고려하라]
-* [(Effective Kotlin Item 59) Kotlin - 가변 컬렉션 사용을 고려하라]
-* [(Effective Kotlin Item 60) Kotlin - 적절한 컬렉션 타입을 사용하라]
+* [(Effective Kotlin Item 54) Kotlin - 처리 단계가 둘 이상인 대규모 컬렉션의 경우 시퀀스를 선호하라](https://github.com/thought-corner/backend-roadmap/wiki/(Effective-Kotlin-Item-54)-Kotlin-%E2%80%90-%EC%B2%98%EB%A6%AC-%EB%8B%A8%EA%B3%84%EA%B0%80-%EB%91%98-%EC%9D%B4%EC%83%81%EC%9D%B8-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%BB%AC%EB%A0%89%EC%85%98%EC%9D%98-%EA%B2%BD%EC%9A%B0-%EC%8B%9C%ED%80%80%EC%8A%A4%EB%A5%BC-%EC%84%A0%ED%98%B8%ED%95%98%EB%9D%BC)
+* [(Effective Kotlin Item 55) Kotlin - 요소들을 맵으로 묶는 것을 고려하라](https://github.com/thought-corner/backend-roadmap/wiki/(Effective-Kotlin-Item-55)-Kotlin-%E2%80%90-%EC%9A%94%EC%86%8C%EB%93%A4%EC%9D%84-%EB%A7%B5%EC%9C%BC%EB%A1%9C-%EB%AC%B6%EB%8A%94-%EA%B2%83%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC)
+* [(Effective Kotlin Item 56) Kotlin - groupBy 대신 groupingBy 사용을 고려하라](https://github.com/thought-corner/backend-roadmap/wiki/(Effective-Kotlin-Item-56)-Kotlin-%E2%80%90-groupBy-%EB%8C%80%EC%8B%A0-groupingBy-%EC%82%AC%EC%9A%A9%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC)
+* [(Effective Kotlin Item 57) Kotlin - 연산 횟수를 제한하라](https://github.com/thought-corner/backend-roadmap/wiki/(Effective-Kotlin-Item-57)-Kotlin-%E2%80%90-%EC%97%B0%EC%82%B0-%ED%9A%9F%EC%88%98%EB%A5%BC-%EC%A0%9C%ED%95%9C%ED%95%98%EB%9D%BC)
+* [(Effective Kotlin Item 58) Kotlin - 성능이 중요한 작업에서는 원시형 배열의 사용을 고려하라](https://github.com/thought-corner/backend-roadmap/wiki/(Effective-Kotlin-Item-58)-Kotlin-%E2%80%90-%EC%84%B1%EB%8A%A5%EC%9D%B4-%EC%A4%91%EC%9A%94%ED%95%9C-%EC%9E%91%EC%97%85%EC%97%90%EC%84%9C%EB%8A%94-%EC%9B%90%EC%8B%9C%ED%98%95-%EB%B0%B0%EC%97%B4%EC%9D%98-%EC%82%AC%EC%9A%A9%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC)
+* [(Effective Kotlin Item 59) Kotlin - 가변 컬렉션 사용을 고려하라](https://github.com/thought-corner/backend-roadmap/wiki/(Effective-Kotlin-Item-59)-Kotlin-%E2%80%90-%EA%B0%80%EB%B3%80-%EC%BB%AC%EB%A0%89%EC%85%98-%EC%82%AC%EC%9A%A9%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC)
+* [(Effective Kotlin Item 60) Kotlin - 적절한 컬렉션 타입을 사용하라](https://github.com/thought-corner/backend-roadmap/wiki/(Effective-Kotlin-Item-60)-Kotlin-%E2%80%90-%EC%A0%81%EC%A0%88%ED%95%9C-%EC%BB%AC%EB%A0%89%EC%85%98-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC)
 
 #### 📖 [Kotlin Academy - Kotlin Essentials with exercises⭐](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000008439557)
 
@@ -774,6 +777,10 @@
 * [(Clean Code 8) Clean Code - 경계](https://github.com/thought-corner/Backend-PlayGround/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%EA%B2%BD%EA%B3%84%5BClean-Code-8%5D)
 * [(Clean Code 9) Clean Code - 단위 테스트](https://github.com/thought-corner/Backend-PlayGround/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%5BClean-Code-9%5D)
 * [(Clean Code 10) Clean Code - 클래스](https://github.com/thought-corner/Backend-PlayGround/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%ED%81%B4%EB%9E%98%EC%8A%A4%5BClean-Code-10%5D)
+* [(Clean Code 11) Clean Code - 시스템](https://github.com/thought-corner/backend-roadmap/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%EC%8B%9C%EC%8A%A4%ED%85%9C%5BClean-Code-11%5D)
+* [(Clean Code 12) Clean Code - 창발성](https://github.com/thought-corner/backend-roadmap/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%EC%B0%BD%EB%B0%9C%EC%84%B1%5BClean-Code-12%5D)
+* [(Clean Code 13) Clean Code - 동시성](https://github.com/thought-corner/backend-roadmap/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%EB%8F%99%EC%8B%9C%EC%84%B1%5BClean-Code-13%5D)
+* [(Clean Code 17) Clean Code - 냄새와 휴리스틱](https://github.com/thought-corner/backend-roadmap/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%EB%83%84%EC%83%88%EC%99%80-%ED%9C%B4%EB%A6%AC%EC%8A%A4%ED%8B%B1%5BClean-Code-17%5D)
 
 #### 📖 [리팩토링 2판⭐](https://product.kyobobook.co.kr/detail/S000001810241)
 
