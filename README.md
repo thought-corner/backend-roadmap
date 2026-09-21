@@ -487,7 +487,7 @@
 
 * [gRPC - Writing .proto Files with Protocol Buffers](https://github.com/thought-corner/backend-roadmap/wiki/gRPC-%E2%80%90-Writing-.proto-Files-with-Protocol-Buffers)
 * [gRPC - Various Communication Patterns in gRPC](https://github.com/thought-corner/backend-roadmap/wiki/gRPC-%E2%80%90-Various-Communication-Patterns-in-gRPC)
-* [gRPC - gRPC Optimization Techniques and Advanced Features]
+* [gRPC - gRPC Optimization Techniques and Advanced Features](https://github.com/thought-corner/backend-roadmap/wiki/gRPC-%E2%80%90-gRPC-Optimization-Techniques-and-Advanced-Features)
 
 #### 📖 TDD(Test-Driven-Development)⭐
 
@@ -833,8 +833,6 @@
 * [도메인 주도 설계의 사실과 오해 - 통찰력을 향한 리팩터링]
 * [도메인 주도 설계의 사실과 오해 - 유연한 설계를 향한 리팩터링]
 * [도메인 주도 설계의 사실과 오해 - 모델의 경계를 긋고, 핵심에 집중하라]
-
-#### 📖 [요즘 우아한 백엔드 개발⭐](https://product.kyobobook.co.kr/detail/S000220700975)
 
 #### 📖 [객체지향의 사실과 오해(역할, 책임, 협력 관점에서 본 객체지향)⭐](https://product.kyobobook.co.kr/detail/S000001628109?utm_source=google&utm_medium=cpc&utm_campaign=googleSearch&gt_network=g&gt_keyword=&gt_target_id=aud-901091942354:dsa-435935280379&gt_campaign_id=9979905549&gt_adgroup_id=132556570510&gad_source=1)
 
