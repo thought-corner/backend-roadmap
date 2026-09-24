@@ -450,8 +450,8 @@
 * [Nginx ‐ Backend Deployment via Nginx Reverse Proxy](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Nginx-%E2%80%90-%EB%A6%AC%EB%B2%84%EC%8A%A4-%ED%94%84%EB%A1%9D%EC%8B%9C(Reverse-Proxy)%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%84%9C%EB%B2%84-%EB%B0%B0%ED%8F%AC)
 * [Nginx ‐ Load Balancing with Nginx](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Nginx-%E2%80%90-Nginx%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A1%9C%EB%93%9C-%EB%B0%B8%EB%9F%B0%EC%84%9C)
 * [Nginx - Core Concept](https://github.com/thought-corner/backend-roadmap/wiki/Nginx-%E2%80%90-Core-Concept)
-* [Nginx - Advanced Concept]
-* [Nginx - Advanced Reverse Proxy]
+* [Nginx - Advanced Concept](https://github.com/thought-corner/backend-roadmap/wiki/Nginx-%E2%80%90-Advanced-Concept)
+* [Nginx - Advanced Reverse Proxy](https://github.com/thought-corner/backend-roadmap/wiki/Nginx-%E2%80%90-Advanced-Reverse-Proxy)
 
 #### 📖 Monitoring📎
 
@@ -555,7 +555,7 @@
 * [Clean Spring - JPA and Domain Model Patterns](https://github.com/thought-corner/backend-roadmap/wiki/Clean-Spring-%E2%80%90-JPA-and-Domain-Model-Patterns)
 * [Clean Spring - Designing a Consistent Domain Model with Aggregates](https://github.com/thought-corner/backend-roadmap/wiki/Clean-Spring-%E2%80%90-Designing-a-Consistent-Domain-Model-with-Aggregates)
 * [Clean Spring - Web API Adapter](https://github.com/thought-corner/backend-roadmap/wiki/Clean-Spring-%E2%80%90-Web-API-Adapter)
-* [Clean Spring - Hexagonal Architecture: Ports]
+* [Clean Spring - Hexagonal Architecture: Ports](https://github.com/thought-corner/backend-roadmap/wiki/Clean-Spring-%E2%80%90-Hexagonal-Architecture:-Ports)
 * [Clean Spring - Hexagonal Architecture: Application Components]
 * [Clean Spring - Test Improvement & Architecture Validation]
 * [Clean Spring - Developing Application Components]
@@ -814,25 +814,6 @@
 * [Real MySQL 8.0 - 실행 계획]
 * [Real MySQL 8.0 - 아키텍처]
 * [Real MySQL 8.0 - 트랜잭션과 잠금]
-
-#### 📖 [타입으로 견고하게 다형성으로 유연하게⭐](https://product.kyobobook.co.kr/detail/S000210397750)
-
-* [타입으로 견고하게 다형성으로 유연하게 - 타입 검사 훑어보기](https://github.com/thought-corner/backend-roadmap/wiki/%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C-%EA%B2%AC%EA%B3%A0%ED%95%98%EA%B2%8C-%EB%8B%A4%ED%98%95%EC%84%B1%EC%9C%BC%EB%A1%9C-%EC%9C%A0%EC%97%B0%ED%95%98%EA%B2%8C-%E2%80%90-%ED%83%80%EC%9E%85-%EA%B2%80%EC%82%AC-%ED%9B%91%EC%96%B4%EB%B3%B4%EA%B8%B0)
-* ~~[타입으로 견고하게 다형성으로 유연하게 - 서브타입에 의한 다형성(Unsupported)](https://github.com/thought-corner/backend-roadmap/wiki/%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C-%EA%B2%AC%EA%B3%A0%ED%95%98%EA%B2%8C-%EB%8B%A4%ED%98%95%EC%84%B1%EC%9C%BC%EB%A1%9C-%EC%9C%A0%EC%97%B0%ED%95%98%EA%B2%8C-%E2%80%90-%EC%84%9C%EB%B8%8C%ED%83%80%EC%9E%85%EC%97%90-%EC%9D%98%ED%95%9C-%EB%8B%A4%ED%98%95%EC%84%B1)~~
-* [타입으로 견고하게 다형성으로 유연하게 - 매개변수에 의한 다형성](https://github.com/thought-corner/backend-roadmap/wiki/%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C-%EA%B2%AC%EA%B3%A0%ED%95%98%EA%B2%8C-%EB%8B%A4%ED%98%95%EC%84%B1%EC%9C%BC%EB%A1%9C-%EC%9C%A0%EC%97%B0%ED%95%98%EA%B2%8C-%E2%80%90-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EC%97%90-%EC%9D%98%ED%95%9C-%EB%8B%A4%ED%98%95%EC%84%B1)
-* [타입으로 견고하게 다형성으로 유연하게 - 두 다형성의 만남](https://github.com/thought-corner/backend-roadmap/wiki/%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C-%EA%B2%AC%EA%B3%A0%ED%95%98%EA%B2%8C-%EB%8B%A4%ED%98%95%EC%84%B1%EC%9C%BC%EB%A1%9C-%EC%9C%A0%EC%97%B0%ED%95%98%EA%B2%8C-%E2%80%90-%EB%91%90-%EB%8B%A4%ED%98%95%EC%84%B1%EC%9D%98-%EB%A7%8C%EB%82%A8)
-* [타입으로 견고하게 다형성으로 유연하게 - 오버로딩에 의한 다형성]
-
-#### 📖 [도메인 주도 설계의 사실과 오해⭐](https://edu.nextstep.camp/c/SXgXIKdd)
-
-* [도메인 주도 설계의 사실과 오해 - DDD 요약]
-* [도메인 주도 설계의 사실과 오해 - Preface, Entity & VO]
-* [도메인 주도 설계의 사실과 오해 - 연관 관계와 애그리거트]
-* [도메인 주도 설계의 사실과 오해 - 애그리거트 구현]
-* [도메인 주도 설계의 사실과 오해 - 레포지토리와 기타 패턴]
-* [도메인 주도 설계의 사실과 오해 - 통찰력을 향한 리팩터링]
-* [도메인 주도 설계의 사실과 오해 - 유연한 설계를 향한 리팩터링]
-* [도메인 주도 설계의 사실과 오해 - 모델의 경계를 긋고, 핵심에 집중하라]
 
 #### 📖 [객체지향의 사실과 오해(역할, 책임, 협력 관점에서 본 객체지향)⭐](https://product.kyobobook.co.kr/detail/S000001628109?utm_source=google&utm_medium=cpc&utm_campaign=googleSearch&gt_network=g&gt_keyword=&gt_target_id=aud-901091942354:dsa-435935280379&gt_campaign_id=9979905549&gt_adgroup_id=132556570510&gad_source=1)
 
